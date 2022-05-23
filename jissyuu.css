@@ -1,0 +1,17 @@
+t1 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	position: relative;
+	width: 300px;
+	height: 60px;
+	color: #333;
+	font-size: 18px;
+	font-weight: 700;
+	text-decoration: none;
+	transition: 0.3s;
+}
+
+.btn a:hover {
+	color: #f2f2f2;
+}
